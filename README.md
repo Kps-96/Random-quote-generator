@@ -50,10 +50,10 @@ The project uses a cohesive blue color palette to ensure a visually appealing de
 
 ```css
 :root {
-    --primary-color: #007bff;
-    --secondary-color: #0056b3;
-    --background-color: #e9f5ff;
-    --text-color: #002b5e;
+    --primary-color: #000073;
+    --secondary-color: #0094FF;
+    --background-color: #000047;
+    --text-color: #fffff;
 }
 ```
 
@@ -62,13 +62,7 @@ The project uses a cohesive blue color palette to ensure a visually appealing de
 The project incorporates various border-radius designs to enhance the visual appeal. You can customize these in the `styles.css` file:
 
 ```css
-.quote-box {
-    border-radius: 10px;
-}
-
-.button {
-    border-radius: 5px;
-}
+ border-radius: 80px 10px 80px 10px;
 ```
 
 Adjust the values to create your desired look.
